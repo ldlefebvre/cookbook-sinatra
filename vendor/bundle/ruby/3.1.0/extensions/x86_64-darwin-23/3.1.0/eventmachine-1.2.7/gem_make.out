@@ -1,0 +1,16 @@
+current directory: /Users/ldlefebvre/code/ldlefebvre/cookbook-sinatra/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/ldlefebvre/.rbenv/versions/3.1.2/bin/ruby -I /Users/ldlefebvre/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240205-64601-mm8bv2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ldlefebvre/code/ldlefebvre/cookbook-sinatra/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= clean
+
+current directory: /Users/ldlefebvre/code/ldlefebvre/cookbook-sinatra/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\=
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/ldlefebvre/code/ldlefebvre/cookbook-sinatra/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240205-64601-uhj7p9
